@@ -19,9 +19,9 @@
 
 - 📫 How to reach me **jmadhanplacement@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CFnGvMs7HYBx8I0fJbWebN9wyUAih4uD/view?usp=drive_link](https://drive.google.com/file/d/1CFnGvMs7HYBx8I0fJbWebN9wyUAih4uD/view?usp=drive_link)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1ojCbtqtb7jC-gr7vGSr9ZRaRo9j8H6yR/view?usp=sharing)
 
-- ⚡ Fun fact **I've won multiple hackathons and achieved 90% accuracy in TB diagnosis AI models!**
+- ⚡ Fun fact **I've won multiple hackathons !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
