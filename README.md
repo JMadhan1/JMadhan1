@@ -2,7 +2,7 @@
 
 # ⚡ J MADHAN
 
-### `GenAI Engineer` · `Co-Founder & CTO @ GPS AI Labs` · `6x Hackathon Champion`
+### `GenAI Engineer` ·  · `6x Hackathon Champion`
 
 <br/>
 
