@@ -8,9 +8,12 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-Visit_Now-FF6B35?style=for-the-badge&labelColor=0D0D0D)](https://madhan-portfolio-xi.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D0D)](https://www.linkedin.com/in/j-madhan-6b90a32b1)
-[![GPS AI Labs](https://img.shields.io/badge/🏢_GPS_AI_LABS-gpsailabs.com-0047FF?style=for-the-badge&labelColor=0D0D0D)](https://gpsailabs.com)
 [![Email](https://img.shields.io/badge/📧_HIRE_ME-FF2D55?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D0D)](mailto:jmadhanplacement@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D0D0D)](https://leetcode.com/u/jmadhan/)
+
+<br/>
+
+![](https://img.shields.io/badge/🟢_ACTIVELY_LOOKING-AI_%2F_ML_Opportunities-00C896?style=for-the-badge&labelColor=0D0D0D)
 
 <br/>
 
@@ -30,17 +33,14 @@
 ┌─────────────────────────────────────────────────────────────────┐
 │                                                                 │
 │  name          :  J Madhan                                      │
-│  role          :  GenAI Engineer @ HRTek System                 │
-│                   Co-Founder & CTO @ GPS AI Labs               │
 │  location      :  India 🇮🇳                                     │
 │  education     :  B.Tech CSE-AI · VEMU Institute · 2026         │
+│  status        :  🟢 Open to AI/ML Engineer & AI Security roles │
 │                                                                 │
 │  hackathons    :  6 WINS → 2 International 🌍 + 4 National 🇮🇳  │
 │  prize_earned  :  3,000 USDT 💰                                 │
+│  exploring     :  AI Security Research · Bug Bounty (part-time) │
 │  superpower    :  "Ship first. Ship fast. Ship to win."         │
-│                                                                 │
-│  companies     :  GPS AI Labs · Hyperplott · Ecoriq             │
-│  flagship      :  Phovite — verified creator marketplace        │
 │                                                                 │
 │  certifications:                                                │
 │    ☁️  AWS Certified Cloud Practitioner                         │
@@ -111,64 +111,21 @@
 
 ---
 
-## ⚡ CURRENTLY BUILDING
+## 🌱 EAGER LEARNER, MULTI-DOMAIN BUILDER
+
+I like picking up new domains fast and shipping in them — from RAG/agent systems to blockchain to computer vision, each hackathon above was a different space I hadn't built in before.
+
+---
+
+## ⚡ CURRENTLY EXPLORING
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🏢 GPS AI Labs — Co-Founder & CTO**
+**🔐 AI Security Research**
 
-> *"WE BUILD WHAT'S NEXT"*
-
-**Phovite** — India's verified creator/influencer marketplace. Escrow-protected brand-creator deals. 500+ waitlist. AI: FLUX.1 Pro Ultra + Kling v2.1.
-
-![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-
-🔗 [gpsailabs.com](https://gpsailabs.com)
-
-</td>
-<td width="50%" valign="top">
-
-**🤖 HRTek System — GenAI Engineer**
-
-Multi-tenant AI telecalling platform. Per-tenant RAG isolation. Real-time voice agents across jewelry, clinic & real estate. Production-grade.
-
-![](https://img.shields.io/badge/LangGraph-FF4B4B?style=flat-square)
-![](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square)
-![](https://img.shields.io/badge/Groq-F54033?style=flat-square)
-![](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
-![](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**💊 Hyperplott — Co-Founder**
-
-DoE SaaS for pharma/biotech. JMP / Minitab / Design-Expert parity.
-**Iron rule: LLMs for UX. Python for math. Always.**
-
-![](https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy)
-![](https://img.shields.io/badge/scipy-8CAAE6?style=flat-square&logo=scipy)
-![](https://img.shields.io/badge/statsmodels-4C72B0?style=flat-square)
-![](https://img.shields.io/badge/Groq_llama--3.1-F54033?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-**♻️ Ecoriq — Builder**
-
-Verified recycling intelligence for India's Gen-Z. Full R&D complete. Active build phase.
-
-![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
-![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+Learning penetration testing fundamentals. Participating in bug bounty programs part-time (weekends), with responsible disclosure to companies.
 
 </td>
 </tr>
@@ -207,22 +164,6 @@ Unified AI agent across Ethereum, Polygon & Solana. Automated yield optimization
 | AI | `MCP Protocol` `Comput3 AI API` |
 | Blockchain | `Web3.py` `Solana SDK` |
 | Backend | `Python` `Flask` `SQLite` |
-
-</details>
-
-<details>
-<summary><img src="https://img.shields.io/badge/📡_PHOVITE-Verified_Creator_Marketplace-9B59B6?style=for-the-badge"/> &nbsp;<code>GPS AI Labs Flagship · Live · 500+ Waitlist</code></summary>
-<br/>
-
-> **"Where verified creators meet brands. Every deal, escrow-protected."**
-
-Tiers: Free / ₹149 / ₹499 / ₹999. Backend: Supabase + Prisma ORM. AI: FLUX.1 Pro Ultra + Kling v2.1 via fal.ai.
-
-| | |
-|:--|:--|
-| Frontend | `React` |
-| Backend | `FastAPI` `Supabase` `Prisma ORM` |
-| AI Gen | `FLUX.1 Pro Ultra` `Kling v2.1` `fal.ai` |
 
 </details>
 
@@ -395,14 +336,10 @@ BART transformer abstractive summarizer. BERTScore: 0.83. Zero data retention.
 
   2026  🟠━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🟠
 
-    🤖  GenAI Engineer @ HRTek System
+    🤖  GenAI Engineer @ HRTek System (Nov 2025 – Apr 2026)
         Multi-tenant AI telecalling · LLM agents · RAG pipelines
 
-    🏢  Co-Founder & CTO @ GPS AI Labs Pvt. Ltd.
-        Phovite (Live) · Ecoriq (Building) · gpsailabs.com
-
-    💊  Co-Founder @ Hyperplott
-        DoE SaaS for Pharma & Biotech Research
+    🔓  Open to next opportunity — AI/ML Engineering & AI Security
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -451,7 +388,7 @@ BART transformer abstractive summarizer. BERTScore: 0.83. Zero data retention.
 
 <div align="center">
 
-**💡 Open to: Freelance · Collabs · Founding Team Roles · Investor Conversations**
+**💡 Open to: Freelance · Collabs · Internships · Full-Time Roles**
 
 <br/>
 
